@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello world i am Oscar Gonzalez 👋</h1>
+<h1 align="center">print("Hello, World!") i am Oscar Gonzalez 👋</h1>
 </div>
 <img src="banner.png">
 
