@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy Oscar Gonzalez 👋</h1>
+<h1 align="center">Hello world i am Oscar Gonzalez 👋</h1>
 </div>
 <img src="banner.png">
 
-## Sobre mi
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23ff4d9a" width="24" alt="" /> About
 
-- ⭐ Técnico en Sistemas | Ciberseguridad | Soporte Técnico |
+- ⭐ Systems Technician | Cybersecurity | TI Support |
 - Backoffice | Reporting | Python| SQL | Excel | B1 English ⭐ 
 <br>
