@@ -1,9 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Oscar Gonzalez 👋</h1>
 </div>
-<img src="[https://imgur.com/a/hNKAFP0](https://imgur.com/a/hNKAFP0)">
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="gHFHpFN"><a href="https://imgur.com/gHFHpFN">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
 ## Sobre mi
 
