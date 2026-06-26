@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/Wskj8cn.jpeg">
 
-<!--
-**OGonzalez-SOC/OGonzalez-SOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
