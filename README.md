@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy Oscar Gonzalez 👋</h1>
 </div>
 <img src="https://i.imgur.com/Wskj8cn.jpeg">
 
@@ -7,7 +7,6 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐ Técnico en Sistemas | Ciberseguridad | Soporte Técnico |
+- Backoffice | Reporting | Python| SQL | Excel | B1 English ⭐ 
 <br>
