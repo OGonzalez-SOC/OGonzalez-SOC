@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Oscar Gonzalez 👋</h1>
 </div>
-<img src="./assets/banner.png" width="100%"
+<img src="banner.png">
 
 ## Sobre mi
 
